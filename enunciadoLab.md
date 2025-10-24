@@ -184,6 +184,7 @@ Recuerde que actividades de cambios en el esquema, no son comunes en la práctic
 
 
 ## Comentarios y recomendaciones
+- **Tenga en cuenta que GCP puede presentar actualizaciones o cambios en sus herramientas. Por lo tanto, se sugiere consultar la documentación oficial en caso de que alguna funcionalidad difiera de lo mostrado durante la explicación.**
 - Buckets y Bigquery se cobra por mes y por almacenamiento
 - DataPrep se cobra al ejecutar las tareas. Dado que el proceso ETL se ejecuta de forma manual y no está automatizado para que se ejecute frecuentemente, no debe existir problemas con la cantidad de créditos compartidos para el desarrollo de este laboratorio y del proyecto.
 - El Json debe ser editado desde la herramienta DataPrep. No puede ser ajustado de forma manual.
